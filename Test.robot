@@ -1,4 +1,7 @@
 *** Test Cases ***
 Test
     log     test
-    log     test2
+
+Test2
+    [Tags]  jenkins
+    log     jenkin
