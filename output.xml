@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1 (Python 3.10.0 on win32)" generated="20250206 16:22:59.742" rpa="false" schemaversion="4">
+<suite id="s1" name="Testjenkins" source="C:\Users\Teerayut\Desktop\Testjenkins">
+<suite id="s1-s1" name="Test" source="C:\Users\Teerayut\Desktop\Testjenkins\Test.robot">
+<test id="s1-s1-t1" name="Test" line="2">
+<kw name="Log" library="BuiltIn">
+<arg>test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20250206 16:22:59.838" level="INFO">test</msg>
+<status status="PASS" starttime="20250206 16:22:59.837" endtime="20250206 16:22:59.838"/>
+</kw>
+<status status="PASS" starttime="20250206 16:22:59.836" endtime="20250206 16:22:59.838"/>
+</test>
+<status status="PASS" starttime="20250206 16:22:59.829" endtime="20250206 16:22:59.841"/>
+</suite>
+<status status="PASS" starttime="20250206 16:22:59.748" endtime="20250206 16:22:59.844"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Testjenkins">Testjenkins</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1" name="Test">Testjenkins.Test</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
